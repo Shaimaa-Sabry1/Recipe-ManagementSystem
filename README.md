@@ -38,4 +38,4 @@
    9-Finally run this command   
         **./a.exe**    
         
-   ***After all steps the code will run and display Login To Our Bookstor*** 
+   ***After all steps the code will run and display *** 
